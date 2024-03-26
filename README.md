@@ -26,11 +26,14 @@ The chatbot is deployed and accessible at [https://floral-dew-2681.ploomberapp.i
 *The image above shows a screenshot of a chat conversation between a student and Sophia. The chatbot provides empathetic responses and guidance to the student, offering support for mental health challenges.*
 
 ### Video
-![Chatbot Video Preview](https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-/assets/64472685/eae787e7-fa69-471e-8f35-9c8153759ddf)
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-/assets/64472685/7152028f-1bc2-450a-a757-26e74a295542
 
 *Click on the video above to see Sophia in action. The video demonstrates how the chatbot provides fast and supportive responses to users seeking mental health assistance.*
+
+
+
+
 
 ## Description
 Sophia is a revolutionary mental health chatbot designed to provide immediate support to individuals facing mental health challenges. Whether it's managing stress, coping with anxiety, or seeking guidance on mental well-being, Sophia is here to help. Our chatbot offers a safe and confidential space for users to express themselves, receive empathetic responses, and access valuable resources. By leveraging advanced natural language processing technology, Sophia ensures fast response times, making it the go-to solution for anyone seeking mental health support. Join us in revolutionizing mental health care with Sophia!
