@@ -26,7 +26,7 @@ The chatbot is deployed and accessible at [https://floral-dew-2681.ploomberapp.i
 *The image above shows a screenshot of a chat conversation between a student and Sophia. The chatbot provides empathetic responses and guidance to the student, offering support for mental health challenges.*
 
 ### Video
-[![Chatbot Video Preview](<URL_TO_VIDEO_PREVIEW>)](<URL_TO_VIDEO>)
+![Chatbot Video Preview](https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-/assets/64472685/eae787e7-fa69-471e-8f35-9c8153759ddf)
 *Click on the video above to see Sophia in action. The video demonstrates how the chatbot provides fast and supportive responses to users seeking mental health assistance.*
 
 ## Description
