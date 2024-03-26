@@ -15,16 +15,14 @@ The chatbot is deployed and accessible at [https://floral-dew-2681.ploomberapp.i
 
 ## Demo
 ### Image
-![Screenshot of Sophia Chat](![image](https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-/assets/64472685/9000c2e3-d474-41bc-9c14-51d4e24fce69)
-)
-![Screenshot of Sophia Chat](![image](![image](https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-/assets/64472685/d6dbd8c1-b5f0-41ad-97ae-720bca9a97c8)
-)
-)
-![Screenshot of Sophia Chat](![image](![image](https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-/assets/64472685/d1ab9372-9bf6-4881-a8fe-5aebdaf04c28)
-)
-![Screenshot of Sophia Chat](![image](![image](https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-/assets/64472685/9a5778f7-2e02-44c4-8513-553fbd57dc94)
-))
-)
+![Screenshot of Sophia Chat](https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-/assets/64472685/9000c2e3-d474-41bc-9c14-51d4e24fce69)
+![Screenshot of Sophia Chat](https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-/assets/64472685/d6dbd8c1-b5f0-41ad-97ae-720bca9a97c8)
+
+![Screenshot of Sophia Chat](https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-/assets/64472685/d1ab9372-9bf6-4881-a8fe-5aebdaf04c28)
+
+![Screenshot of Sophia Chat](https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-/assets/64472685/9a5778f7-2e02-44c4-8513-553fbd57dc94)
+
+
 *The image above shows a screenshot of a chat conversation between a student and Sophia. The chatbot provides empathetic responses and guidance to the student, offering support for mental health challenges.*
 
 ### Video
