@@ -27,6 +27,9 @@ The chatbot is deployed and accessible at [https://floral-dew-2681.ploomberapp.i
 
 ### Video
 ![Chatbot Video Preview](https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-/assets/64472685/eae787e7-fa69-471e-8f35-9c8153759ddf)
+
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+
 *Click on the video above to see Sophia in action. The video demonstrates how the chatbot provides fast and supportive responses to users seeking mental health assistance.*
 
 ## Description
